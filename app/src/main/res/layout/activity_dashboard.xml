@@ -54,7 +54,7 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="69dp"
-                        android:src="@drawable/bmi" />
+                        android:src="@drawable/f12" />
 
                     <TextView
                         android:layout_width="match_parent"
@@ -62,6 +62,8 @@
                         android:layout_marginTop="10dp"
                         android:padding="10dp"
                         android:text="BMI Calculator"
+                        android:textColor="#15965a"
+                        android:textStyle="bold"
                         android:textAlignment="center" />
 
                 </LinearLayout>
@@ -73,7 +75,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
-                android:id="@+id/pedometer"
+                android:id="@+id/diet"
                 android:layout_weight="1"
                 app:cardCornerRadius="5dp"
                 app:cardElevation="5dp">
@@ -89,14 +91,15 @@
                     <ImageView
                         android:layout_width="117dp"
                         android:layout_height="65dp"
-                        android:src="@drawable/peddometer" />
+                        android:src="@drawable/dietic" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginTop="10dp"
                         android:padding="10dp"
-                        android:text="Pedometer"
+                        android:text="Diet Suggestion"
+                        android:textColor="#eb4272"
                         android:textAlignment="center" />
 
                 </LinearLayout>
@@ -131,9 +134,10 @@
                 android:layout_height="215dp"
                 android:layout_marginLeft="20sp"
                 android:adjustViewBounds="true"
-                android:src="@drawable/image_select" />
+                android:src="@drawable/girlicon" />
 
         </LinearLayout>
+
     </LinearLayout>
 
 
