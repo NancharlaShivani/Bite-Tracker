@@ -14,7 +14,8 @@ Hobby Project
 
 ![](Screenshots/ss62.jpeg)
 
-![](Screenshots/ss13.jpeg)
+![dashboard](https://github.com/NancharlaShivani/Bite-Tracker/assets/130478913/ad834f18-4914-4e26-8d6b-2bcff2800e72)
+
 
 ![](Screenshots/ss44.jpeg)
 
