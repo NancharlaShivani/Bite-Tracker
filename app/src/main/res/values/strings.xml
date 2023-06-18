@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">FitIndia</string>
+    <string name="app_name">BiteTracker</string>
     <string name="title_activity_register_act">register_act</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -19,12 +19,13 @@
     <string name="this_calculator_should_not_be_used_for_pregnant_women_or_children">* This calculator should not be used for pregnant women or children.</string>
     <string name="your_bmi">YOUR BMI</string>
     <string name="_21_5">21.5</string>
-    <string name="you_have_a_normal_body_weight_enjoy">You have a normal Body Weight. Enjoy !</string>
-    <string name="under">You are Underweight. Try Bulking up.</string>
-    <string name="over">You are Overweight. Try to lose some weight.</string>
+    <string name="you_have_a_normal_body_weight_enjoy">You have a normal Body Weight.Keep up the good work and continue leading a balanced lifestyle!!</string>
+    <string name="under">You are Underweight. Try Bulking up in a healthy way with the help of our diet consultant.</string>
+    <string name="obese">You are Obese.Its crucial to prioritize your health by taking help of our diet consultant and speak to nutritionist.</string>
+    <string name="over">You are Overweight.Consider making lifestyle changes by taking help of diet consultant.</string>
     <string name="_60">60</string>
     <string name="calories_taken">Calories Taken = 0 KCAL</string>
     <string name="calories">Calories</string>
-    <string name="kcal">KCAL</string>
+    <string name="kcal">CAL</string>
     <string name="reset">RESET</string>
 </resources>
