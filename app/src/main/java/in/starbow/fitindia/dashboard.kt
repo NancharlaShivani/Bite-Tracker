@@ -1,14 +1,10 @@
 package `in`.starbow.fitindia
 
-import `in`.starbow.fitindia.service.StepDetectorService
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
 import kotlinx.android.synthetic.main.activity_dashboard.*
-
-
-import kotlinx.android.synthetic.main.activity_main.*
 
 
 class dashboard : AppCompatActivity() {
@@ -22,9 +18,9 @@ class dashboard : AppCompatActivity() {
             startActivity(intent);
         }
 
-        pedometer.setOnClickListener {
-            Toast.makeText(applicationContext, "Pedometer", Toast.LENGTH_SHORT).show()
-            val intent = Intent(this, peodmeter::class.java)
+        diet.setOnClickListener {
+            Toast.makeText(applicationContext, "diet suggestion", Toast.LENGTH_SHORT).show()
+            val intent = Intent(this, DieticianActivity::class.java)
             startActivity(intent);
         }
       image_selector.setOnClickListener{
