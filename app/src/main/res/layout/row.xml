@@ -14,7 +14,7 @@
             android:id="@+id/food_image"
             android:layout_width="75dp"
             android:layout_height="75dp"
-            android:src="@drawable/image_select" />
+            android:src="@drawable/girlicon" />
 
         <LinearLayout
             android:layout_width="match_parent"
