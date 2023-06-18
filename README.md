@@ -1,16 +1,16 @@
-# FitIndia
-Hackthon Project
-https://drive.google.com/file/d/1hW04EAhE-KX22kfOCHv4GKkwypN2evcR/view
+# BiteTracker(a calorie tracker and diet suggestion app)
+Hobby Project
+
 
 # Technology/language/tools Used 
  - firebase 
  - kotlin
- - java
  - android studio
 
 # Screenshots
 
-![](Screenshots/ss51.jpeg)
+![b2](https://github.com/NancharlaShivani/Bite-Tracker/assets/130478913/62f05e5f-94ed-4154-9b29-5c3f61a00cf7)
+
 
 ![](Screenshots/ss62.jpeg)
 
